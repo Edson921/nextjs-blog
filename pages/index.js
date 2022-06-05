@@ -12,8 +12,10 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          hello my name is edason prince, i'm a
-          deve studant from angoola country </p>
+          hello my name is edson prince, i'm a
+          deve studant from angoola country 
+          vim resolver alguma coisa aqui you know ?
+        </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
